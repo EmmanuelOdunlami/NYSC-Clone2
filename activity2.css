@@ -79,14 +79,16 @@ nav{
     border: #10882e solid;
     display: flex;
     justify-content: space-evenly;
+    margin: 5px 0px;
 }
 
 .box4{
     width: 285px;
     height: 78px;
     background-color: rgb(255, 115, 0);
+    color: white;
 }
 
 .box5{
-    w
+    
 }
